@@ -1,0 +1,28 @@
+C:\Users\equipo\Desktop\ProyectoFinal\ProyectoFinal\EntidadesCompartidas\bin\Debug\EntidadesCompartidas.dll
+C:\Users\equipo\Desktop\ProyectoFinal\ProyectoFinal\EntidadesCompartidas\bin\Debug\EntidadesCompartidas.pdb
+C:\Users\equipo\Desktop\ProyectoFinal\ProyectoFinal\EntidadesCompartidas\obj\Debug\EntidadesCompartidas.dll
+C:\Users\equipo\Desktop\ProyectoFinal\ProyectoFinal\EntidadesCompartidas\obj\Debug\EntidadesCompartidas.pdb
+C:\Users\equipo\Downloads\BIOS\Proyecto Final\ProyectoFinal\EntidadesCompartidas\bin\Debug\EntidadesCompartidas.dll
+C:\Users\equipo\Downloads\BIOS\Proyecto Final\ProyectoFinal\EntidadesCompartidas\bin\Debug\EntidadesCompartidas.pdb
+C:\Users\equipo\Downloads\BIOS\Proyecto Final\ProyectoFinal\EntidadesCompartidas\obj\Debug\EntidadesCompartidas.dll
+C:\Users\equipo\Downloads\BIOS\Proyecto Final\ProyectoFinal\EntidadesCompartidas\obj\Debug\EntidadesCompartidas.pdb
+C:\Users\Acer\Downloads\pr\ProyectoFinal\EntidadesCompartidas\bin\Debug\EntidadesCompartidas.dll
+C:\Users\Acer\Downloads\pr\ProyectoFinal\EntidadesCompartidas\bin\Debug\EntidadesCompartidas.pdb
+C:\Users\Acer\Downloads\pr\ProyectoFinal\EntidadesCompartidas\obj\Debug\EntidadesCompartidas.dll
+C:\Users\Acer\Downloads\pr\ProyectoFinal\EntidadesCompartidas\obj\Debug\EntidadesCompartidas.pdb
+C:\Users\equipo\Desktop\Proyecto Final\EntidadesCompartidas\bin\Debug\EntidadesCompartidas.dll
+C:\Users\equipo\Desktop\Proyecto Final\EntidadesCompartidas\bin\Debug\EntidadesCompartidas.pdb
+C:\Users\equipo\Desktop\Proyecto Final\EntidadesCompartidas\obj\Debug\EntidadesCompartidas.dll
+C:\Users\equipo\Desktop\Proyecto Final\EntidadesCompartidas\obj\Debug\EntidadesCompartidas.pdb
+C:\Users\Acer\Downloads\pf\Proyecto Final\EntidadesCompartidas\bin\Debug\EntidadesCompartidas.dll
+C:\Users\Acer\Downloads\pf\Proyecto Final\EntidadesCompartidas\bin\Debug\EntidadesCompartidas.pdb
+C:\Users\Acer\Downloads\pf\Proyecto Final\EntidadesCompartidas\obj\Debug\EntidadesCompartidas.dll
+C:\Users\Acer\Downloads\pf\Proyecto Final\EntidadesCompartidas\obj\Debug\EntidadesCompartidas.pdb
+C:\Users\equipo\Desktop\EntidadesCompartidas\bin\Debug\EntidadesCompartidas.dll
+C:\Users\equipo\Desktop\EntidadesCompartidas\bin\Debug\EntidadesCompartidas.pdb
+C:\Users\equipo\Desktop\EntidadesCompartidas\obj\Debug\EntidadesCompartidas.dll
+C:\Users\equipo\Desktop\EntidadesCompartidas\obj\Debug\EntidadesCompartidas.pdb
+C:\Users\Acer\Downloads\pf 15-03\Proyecto Final\EntidadesCompartidas\bin\Debug\EntidadesCompartidas.dll
+C:\Users\Acer\Downloads\pf 15-03\Proyecto Final\EntidadesCompartidas\bin\Debug\EntidadesCompartidas.pdb
+C:\Users\Acer\Downloads\pf 15-03\Proyecto Final\EntidadesCompartidas\obj\Debug\EntidadesCompartidas.dll
+C:\Users\Acer\Downloads\pf 15-03\Proyecto Final\EntidadesCompartidas\obj\Debug\EntidadesCompartidas.pdb

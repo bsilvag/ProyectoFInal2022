@@ -1,0 +1,49 @@
+C:\Users\equipo\Desktop\ProyectoFinal\ProyectoFinal\Persistencia\bin\Debug\Persistencia.dll
+C:\Users\equipo\Desktop\ProyectoFinal\ProyectoFinal\Persistencia\bin\Debug\Persistencia.pdb
+C:\Users\equipo\Desktop\ProyectoFinal\ProyectoFinal\Persistencia\bin\Debug\EntidadesCompartidas.dll
+C:\Users\equipo\Desktop\ProyectoFinal\ProyectoFinal\Persistencia\bin\Debug\EntidadesCompartidas.pdb
+C:\Users\equipo\Desktop\ProyectoFinal\ProyectoFinal\Persistencia\obj\Debug\Persistencia.csprojResolveAssemblyReference.cache
+C:\Users\equipo\Desktop\ProyectoFinal\ProyectoFinal\Persistencia\obj\Debug\Persistencia.dll
+C:\Users\equipo\Desktop\ProyectoFinal\ProyectoFinal\Persistencia\obj\Debug\Persistencia.pdb
+C:\Users\equipo\Downloads\BIOS\Proyecto Final\ProyectoFinal\Persistencia\bin\Debug\Persistencia.dll
+C:\Users\equipo\Downloads\BIOS\Proyecto Final\ProyectoFinal\Persistencia\bin\Debug\Persistencia.pdb
+C:\Users\equipo\Downloads\BIOS\Proyecto Final\ProyectoFinal\Persistencia\bin\Debug\EntidadesCompartidas.dll
+C:\Users\equipo\Downloads\BIOS\Proyecto Final\ProyectoFinal\Persistencia\bin\Debug\EntidadesCompartidas.pdb
+C:\Users\equipo\Downloads\BIOS\Proyecto Final\ProyectoFinal\Persistencia\obj\Debug\Persistencia.csprojResolveAssemblyReference.cache
+C:\Users\equipo\Downloads\BIOS\Proyecto Final\ProyectoFinal\Persistencia\obj\Debug\Persistencia.dll
+C:\Users\equipo\Downloads\BIOS\Proyecto Final\ProyectoFinal\Persistencia\obj\Debug\Persistencia.pdb
+C:\Users\Acer\Downloads\pr\ProyectoFinal\Persistencia\bin\Debug\Persistencia.dll
+C:\Users\Acer\Downloads\pr\ProyectoFinal\Persistencia\bin\Debug\Persistencia.pdb
+C:\Users\Acer\Downloads\pr\ProyectoFinal\Persistencia\bin\Debug\EntidadesCompartidas.dll
+C:\Users\Acer\Downloads\pr\ProyectoFinal\Persistencia\bin\Debug\EntidadesCompartidas.pdb
+C:\Users\Acer\Downloads\pr\ProyectoFinal\Persistencia\obj\Debug\Persistencia.csprojResolveAssemblyReference.cache
+C:\Users\Acer\Downloads\pr\ProyectoFinal\Persistencia\obj\Debug\Persistencia.dll
+C:\Users\Acer\Downloads\pr\ProyectoFinal\Persistencia\obj\Debug\Persistencia.pdb
+C:\Users\equipo\Desktop\Proyecto Final\Persistencia\bin\Debug\Persistencia.dll
+C:\Users\equipo\Desktop\Proyecto Final\Persistencia\bin\Debug\Persistencia.pdb
+C:\Users\equipo\Desktop\Proyecto Final\Persistencia\bin\Debug\EntidadesCompartidas.dll
+C:\Users\equipo\Desktop\Proyecto Final\Persistencia\bin\Debug\EntidadesCompartidas.pdb
+C:\Users\equipo\Desktop\Proyecto Final\Persistencia\obj\Debug\Persistencia.csprojResolveAssemblyReference.cache
+C:\Users\equipo\Desktop\Proyecto Final\Persistencia\obj\Debug\Persistencia.dll
+C:\Users\equipo\Desktop\Proyecto Final\Persistencia\obj\Debug\Persistencia.pdb
+C:\Users\Acer\Downloads\pf\Proyecto Final\Persistencia\bin\Debug\Persistencia.dll
+C:\Users\Acer\Downloads\pf\Proyecto Final\Persistencia\bin\Debug\Persistencia.pdb
+C:\Users\Acer\Downloads\pf\Proyecto Final\Persistencia\bin\Debug\EntidadesCompartidas.dll
+C:\Users\Acer\Downloads\pf\Proyecto Final\Persistencia\bin\Debug\EntidadesCompartidas.pdb
+C:\Users\Acer\Downloads\pf\Proyecto Final\Persistencia\obj\Debug\Persistencia.csprojResolveAssemblyReference.cache
+C:\Users\Acer\Downloads\pf\Proyecto Final\Persistencia\obj\Debug\Persistencia.dll
+C:\Users\Acer\Downloads\pf\Proyecto Final\Persistencia\obj\Debug\Persistencia.pdb
+C:\Users\equipo\Desktop\Persistencia\bin\Debug\Persistencia.dll
+C:\Users\equipo\Desktop\Persistencia\bin\Debug\Persistencia.pdb
+C:\Users\equipo\Desktop\Persistencia\bin\Debug\EntidadesCompartidas.dll
+C:\Users\equipo\Desktop\Persistencia\bin\Debug\EntidadesCompartidas.pdb
+C:\Users\equipo\Desktop\Persistencia\obj\Debug\Persistencia.csprojResolveAssemblyReference.cache
+C:\Users\equipo\Desktop\Persistencia\obj\Debug\Persistencia.dll
+C:\Users\equipo\Desktop\Persistencia\obj\Debug\Persistencia.pdb
+C:\Users\Acer\Downloads\pf 15-03\Proyecto Final\Persistencia\bin\Debug\Persistencia.dll
+C:\Users\Acer\Downloads\pf 15-03\Proyecto Final\Persistencia\bin\Debug\Persistencia.pdb
+C:\Users\Acer\Downloads\pf 15-03\Proyecto Final\Persistencia\bin\Debug\EntidadesCompartidas.dll
+C:\Users\Acer\Downloads\pf 15-03\Proyecto Final\Persistencia\bin\Debug\EntidadesCompartidas.pdb
+C:\Users\Acer\Downloads\pf 15-03\Proyecto Final\Persistencia\obj\Debug\Persistencia.csprojResolveAssemblyReference.cache
+C:\Users\Acer\Downloads\pf 15-03\Proyecto Final\Persistencia\obj\Debug\Persistencia.dll
+C:\Users\Acer\Downloads\pf 15-03\Proyecto Final\Persistencia\obj\Debug\Persistencia.pdb
